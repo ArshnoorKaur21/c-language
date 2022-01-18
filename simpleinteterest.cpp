@@ -1,4 +1,4 @@
-//program of simple interest
+//program of simple interest fxns
 #include<stdio.h>
 void simpleinterst(float p,float r,float t)
 {
