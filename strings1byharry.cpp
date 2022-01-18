@@ -8,7 +8,7 @@ char printcharacter(char str[6]){
 }
 int main(){
 	//char str[6]="harry";//if likhu isme indexing prbkm bcz small number hai
-	char str[6]={'h','a','r','r','y'};//isme harry 5 k lie aage garbage value print hojegi
-	//if str[6] ismefull harry aaega agr \0 na likhu
+	char str[5]={'h','a','r','r','y'};//in this for str[5] garbage value will be printed at last
+	//if str[6] //in this full harry will be printed if str[6] 
 	printcharacter(str);
 }
