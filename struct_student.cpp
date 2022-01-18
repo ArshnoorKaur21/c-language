@@ -1,4 +1,4 @@
-//structure
+//array of structure
 #include<stdio.h>
 struct dob
 {
