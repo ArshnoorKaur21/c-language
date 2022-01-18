@@ -1,3 +1,4 @@
+//file handling and get put
 #include<stdio.h>
 #include<conio.h>
 main()
@@ -10,7 +11,7 @@ main()
 	scanf("%d",&n);
 	for(int i=0;i<n;i++)
 	{
-		ch=getche();
+		ch=getc();
 		fputc(ch,fp);
 	}
 	fclose(fp);
