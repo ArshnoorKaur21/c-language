@@ -1,4 +1,4 @@
-//program of pointer to call by value
+//program of pointer to call by value 
 #include<stdio.h>
 void swap(int a,int b)
 {
