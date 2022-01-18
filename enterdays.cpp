@@ -5,7 +5,7 @@ main()
 	int n;
 	printf("enter days from 1 to 7:");
 	scanf("%d",&n);
-	switch(n)
+	switch(n) 
 	{
 		case 1: printf("monday");
 		break;
