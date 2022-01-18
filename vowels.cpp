@@ -1,4 +1,4 @@
-//program
+//program using switch
 #include<stdio.h>
 main()
 {
