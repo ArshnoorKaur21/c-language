@@ -6,7 +6,7 @@ struct Employee{
 	char name[34];
 };
 struct Employee harry,ravi,raman;//here we have declared globally variables can be accessed anywhere
-void func1(){//agr yhn na declafre krti var toh error aata bcz woh locally declare hai
+void func1(){//if i declare this variable here harry.name then error will be shown bcz its scope is local
 	printf("%s",harry.name);
 }
 int main(){
