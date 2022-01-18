@@ -1,4 +1,4 @@
-//prorgam
+//prorgam of primes
 #include<stdio.h>
 int checkisprime(int n)
 {
