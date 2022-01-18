@@ -1,4 +1,4 @@
-//program ot find square root and power of the function 
+//program ot find square root and power of the function  using math.h
 #include<stdio.h>
 #include<math.h>
 main()
