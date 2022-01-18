@@ -1,4 +1,4 @@
-//program of time conversion from 12 hrs to 24hrs
+//program of time conversion from 12 hrs to 24hrs in c
 #include<stdio.h>
 #include<string.h>
 main()
