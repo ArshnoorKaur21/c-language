@@ -1,4 +1,4 @@
-//program of pritning tokens
+//program of pritning tokens 
 #include<stdio.h>
 main()
 {
