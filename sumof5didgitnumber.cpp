@@ -1,4 +1,4 @@
-//printing the sum of digits of 3 digit number
+//printing the sum of digits of 5 digit number 
 #include<stdio.h>
 main()
 {
