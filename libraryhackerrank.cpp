@@ -3,7 +3,7 @@
 #include<string.h>
 main()
 {
-	int n,i;
+	int n,i; 
 	printf("\nenter the ten space seperate integers in single line");
 	scanf("%d",&n);
     for(i=0;i<strlen(n);i++)
