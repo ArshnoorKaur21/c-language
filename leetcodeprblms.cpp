@@ -2,7 +2,7 @@
 #include<stdio.h>
 main()
 {
-   int a[5];
+   int a[5]; 
    int b[5];
    printf("\nfirst array");
    for(i=0;i<5;i++)
